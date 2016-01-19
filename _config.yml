@@ -1,0 +1,14 @@
+layout_spectrum: 0.9881956
+color:
+  saturation: 0.4856661
+  brandStrength: 0.7721339
+  lightness: 0.5716695
+  brandColors:
+    - '#383138'
+    - '#81869B'
+    - '#CEB5F2'
+    - '#CFA49A'
+    - '#C73865'
+  rhythmicContrast: 0.3743676
+typography_spectrum: 0.3052277
+name: regidavis.com
